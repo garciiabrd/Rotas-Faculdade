@@ -1,0 +1,63 @@
+{{>header}}
+<h1> Horários Semanal</h1>
+<hr/>
+      <h1>SEGUNDA-FEIRA<h1>
+<hr/>
+      <ul>
+        <li>07:40 até 09:20 - Gestão Agil de Projetos</li>
+        <p>INTERVALO</p>
+        <li>09:40 até 11:20 - Gestão Agil de Projetos</li>
+        <li>11:20 até 13:00 - Estrutura de Dados</li>
+      </ul>
+<hr/>
+      <h1>TERÇA-FEIRA<h1>
+<hr/>
+      <ul>
+        <li>07:40 até 09:20 - Banco de dados Não Relacional</li>
+        <p>INTERVALO</p>
+        <li>09:40 até 11:20 - Banco de dados Não Relacional</li>
+        <li>11:20 até 13:00 - Inglês I</li>
+      </ul>
+
+<hr/>
+      <h1>QUARTA-FEIRA<h1>
+<hr/>
+      <ul>
+        <li>07:40 até 09:20 - Desenvolvimento Web III</li>
+        <p>INTERVALO</p>
+        <li>09:40 até 11:20 - Desenvolvimento Web III</li>
+        <li>11:20 até 13:00 - Interação Humano Computador</li>
+      </ul>
+
+<hr/>
+      <h1>QUINTA-FEIRA<h1>
+<hr/>
+      <ul>
+        <li>07:40 até 09:20 - Álgebra linear</li>
+        <p>INTERVALO</p>
+        <li>09:40 até 11:20 - Álgebra linear</li>
+        <li>11:20 até 13:00 - Interação Humano Computador</li>
+      </ul>
+
+<hr/>
+      <h1>SEXTA-FEIRA<h1>
+<hr/>
+      <ul>
+        <li>07:40 até 09:20 - Técnica de Programação II</li>
+        <p>INTERVALO</p>
+        <li>09:40 até 11:20 - Técnica de Programação II</li>
+        <li>11:20 até 13:00 - HÓRARIO VAGO</li>
+      </ul>
+    
+<style>
+
+body{
+    background:  #F4D2E4;
+    font-size:18px; 
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+  color:black;
+  font-family: 'Open Sans', sans-serif;
+}
+</style>

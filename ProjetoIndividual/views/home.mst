@@ -1,0 +1,23 @@
+{{>header}}
+<h2>APRESENTAÇÃO</h2>
+<body>
+<p>Este é um projeto Individual de rotas, desevolvido em Node.JS com os framework Mustache e Express.</p> 
+<p>Estamos na página Inicial de apresentação!</p>
+<p>Para acessar a minha grade horária do 1Semestre de 2023 acrescente /rota2 em sua URL.</p>
+<p>Para acessar meu historia escolar acrescente/rota3 em sua URL.</p>
+</body>
+
+<style>
+body{
+    background:  #F4D2E4;
+    font-size:21px;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    color:black;
+}
+h2{
+    color:black;
+}
+</style>
+
